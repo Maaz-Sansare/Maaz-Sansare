@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Maaz-Sansare
 - 👀 I’m interested in Embedded design 
-- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on any firmware & hardware (PCB) development on any embedded project
 - 📫 How to reach me maaz.sansare.786@gmail.com
 
